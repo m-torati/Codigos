@@ -1,0 +1,7 @@
+C:\Users\Admilson\Desktop\Cursos Udemy\C# Completo - POO + Projetos\Problema_ContaBancaria_POO\Problema_ContaBancaria_POO\bin\Debug\Problema_ContaBancaria_POO.exe.config
+C:\Users\Admilson\Desktop\Cursos Udemy\C# Completo - POO + Projetos\Problema_ContaBancaria_POO\Problema_ContaBancaria_POO\bin\Debug\Problema_ContaBancaria_POO.exe
+C:\Users\Admilson\Desktop\Cursos Udemy\C# Completo - POO + Projetos\Problema_ContaBancaria_POO\Problema_ContaBancaria_POO\bin\Debug\Problema_ContaBancaria_POO.pdb
+C:\Users\Admilson\Desktop\Cursos Udemy\C# Completo - POO + Projetos\Problema_ContaBancaria_POO\Problema_ContaBancaria_POO\obj\Debug\Problema_ContaBancaria_POO.csproj.AssemblyReference.cache
+C:\Users\Admilson\Desktop\Cursos Udemy\C# Completo - POO + Projetos\Problema_ContaBancaria_POO\Problema_ContaBancaria_POO\obj\Debug\Problema_ContaBancaria_POO.csproj.CoreCompileInputs.cache
+C:\Users\Admilson\Desktop\Cursos Udemy\C# Completo - POO + Projetos\Problema_ContaBancaria_POO\Problema_ContaBancaria_POO\obj\Debug\Problema_ContaBancaria_POO.exe
+C:\Users\Admilson\Desktop\Cursos Udemy\C# Completo - POO + Projetos\Problema_ContaBancaria_POO\Problema_ContaBancaria_POO\obj\Debug\Problema_ContaBancaria_POO.pdb
