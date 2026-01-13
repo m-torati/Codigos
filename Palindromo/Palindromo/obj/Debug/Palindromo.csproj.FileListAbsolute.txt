@@ -1,0 +1,7 @@
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Palindromo\Palindromo\bin\Debug\Palindromo.exe.config
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Palindromo\Palindromo\bin\Debug\Palindromo.exe
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Palindromo\Palindromo\bin\Debug\Palindromo.pdb
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Palindromo\Palindromo\obj\Debug\Palindromo.csproj.AssemblyReference.cache
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Palindromo\Palindromo\obj\Debug\Palindromo.csproj.CoreCompileInputs.cache
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Palindromo\Palindromo\obj\Debug\Palindromo.exe
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Palindromo\Palindromo\obj\Debug\Palindromo.pdb
