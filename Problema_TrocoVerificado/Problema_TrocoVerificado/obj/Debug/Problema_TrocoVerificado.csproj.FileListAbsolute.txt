@@ -1,0 +1,7 @@
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_TrocoVerificado\Problema_TrocoVerificado\bin\Debug\Problema_TrocoVerificado.exe.config
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_TrocoVerificado\Problema_TrocoVerificado\bin\Debug\Problema_TrocoVerificado.exe
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_TrocoVerificado\Problema_TrocoVerificado\bin\Debug\Problema_TrocoVerificado.pdb
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_TrocoVerificado\Problema_TrocoVerificado\obj\Debug\Problema_TrocoVerificado.csproj.AssemblyReference.cache
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_TrocoVerificado\Problema_TrocoVerificado\obj\Debug\Problema_TrocoVerificado.csproj.CoreCompileInputs.cache
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_TrocoVerificado\Problema_TrocoVerificado\obj\Debug\Problema_TrocoVerificado.exe
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_TrocoVerificado\Problema_TrocoVerificado\obj\Debug\Problema_TrocoVerificado.pdb

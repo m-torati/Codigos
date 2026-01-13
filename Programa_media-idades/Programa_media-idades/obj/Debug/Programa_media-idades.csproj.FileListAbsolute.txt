@@ -1,0 +1,7 @@
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Programa_media-idades\Programa_media-idades\bin\Debug\Programa_media-idades.exe.config
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Programa_media-idades\Programa_media-idades\bin\Debug\Programa_media-idades.exe
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Programa_media-idades\Programa_media-idades\bin\Debug\Programa_media-idades.pdb
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Programa_media-idades\Programa_media-idades\obj\Debug\Programa_media-idades.csproj.AssemblyReference.cache
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Programa_media-idades\Programa_media-idades\obj\Debug\Programa_media-idades.csproj.CoreCompileInputs.cache
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Programa_media-idades\Programa_media-idades\obj\Debug\Programa_media-idades.exe
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Programa_media-idades\Programa_media-idades\obj\Debug\Programa_media-idades.pdb

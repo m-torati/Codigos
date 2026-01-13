@@ -1,0 +1,7 @@
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_validacao-de-notas\Problema_validacao-de-notas\bin\Debug\Problema_validacao-de-notas.exe.config
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_validacao-de-notas\Problema_validacao-de-notas\bin\Debug\Problema_validacao-de-notas.exe
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_validacao-de-notas\Problema_validacao-de-notas\bin\Debug\Problema_validacao-de-notas.pdb
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_validacao-de-notas\Problema_validacao-de-notas\obj\Debug\Problema_validacao-de-notas.csproj.AssemblyReference.cache
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_validacao-de-notas\Problema_validacao-de-notas\obj\Debug\Problema_validacao-de-notas.csproj.CoreCompileInputs.cache
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_validacao-de-notas\Problema_validacao-de-notas\obj\Debug\Problema_validacao-de-notas.exe
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_validacao-de-notas\Problema_validacao-de-notas\obj\Debug\Problema_validacao-de-notas.pdb
