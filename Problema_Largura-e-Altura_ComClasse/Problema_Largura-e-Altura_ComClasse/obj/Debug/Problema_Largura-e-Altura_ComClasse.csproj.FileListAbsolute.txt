@@ -1,0 +1,7 @@
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\UDEMY\C# Completo - OPP + Projetos\Problema_Largura-e-Altura_ComClasse\Problema_Largura-e-Altura_ComClasse\bin\Debug\Problema_Largura-e-Altura_ComClasse.exe.config
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\UDEMY\C# Completo - OPP + Projetos\Problema_Largura-e-Altura_ComClasse\Problema_Largura-e-Altura_ComClasse\bin\Debug\Problema_Largura-e-Altura_ComClasse.exe
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\UDEMY\C# Completo - OPP + Projetos\Problema_Largura-e-Altura_ComClasse\Problema_Largura-e-Altura_ComClasse\bin\Debug\Problema_Largura-e-Altura_ComClasse.pdb
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\UDEMY\C# Completo - OPP + Projetos\Problema_Largura-e-Altura_ComClasse\Problema_Largura-e-Altura_ComClasse\obj\Debug\Problema_Largura-e-Altura_ComClasse.csproj.AssemblyReference.cache
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\UDEMY\C# Completo - OPP + Projetos\Problema_Largura-e-Altura_ComClasse\Problema_Largura-e-Altura_ComClasse\obj\Debug\Problema_Largura-e-Altura_ComClasse.csproj.CoreCompileInputs.cache
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\UDEMY\C# Completo - OPP + Projetos\Problema_Largura-e-Altura_ComClasse\Problema_Largura-e-Altura_ComClasse\obj\Debug\Problema_Largura-e-Altura_ComClasse.exe
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\UDEMY\C# Completo - OPP + Projetos\Problema_Largura-e-Altura_ComClasse\Problema_Largura-e-Altura_ComClasse\obj\Debug\Problema_Largura-e-Altura_ComClasse.pdb

@@ -1,0 +1,2 @@
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\UDEMY\C# Completo - Programação Orientada a Objetos + Projetos\Problema_MaisVelho_Classes\Problema_MaisVelho_Classes\obj\Debug\Problema_MaisVelho_Classes.csproj.AssemblyReference.cache
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\UDEMY\C# Completo - Programação Orientada a Objetos + Projetos\Problema_MaisVelho_Classes\Problema_MaisVelho_Classes\obj\Debug\Problema_MaisVelho_Classes.csproj.CoreCompileInputs.cache

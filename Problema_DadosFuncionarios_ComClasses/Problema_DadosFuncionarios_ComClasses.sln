@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problema_DadosFuncionarios_ComClasses", "Problema_DadosFuncionarios_ComClasses\Problema_DadosFuncionarios_ComClasses.csproj", "{88E9F97B-0483-4EA2-92AB-0E6016C7842D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88E9F97B-0483-4EA2-92AB-0E6016C7842D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88E9F97B-0483-4EA2-92AB-0E6016C7842D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88E9F97B-0483-4EA2-92AB-0E6016C7842D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88E9F97B-0483-4EA2-92AB-0E6016C7842D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10F76CF6-4251-4D81-8DB5-0B60ADBC6337}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problema_MaisVelho_Classes", "Problema_MaisVelho_Classes\Problema_MaisVelho_Classes.csproj", "{E7FF32F2-0002-4DEB-9C58-B568A7ED7707}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7FF32F2-0002-4DEB-9C58-B568A7ED7707}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7FF32F2-0002-4DEB-9C58-B568A7ED7707}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7FF32F2-0002-4DEB-9C58-B568A7ED7707}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7FF32F2-0002-4DEB-9C58-B568A7ED7707}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {720F55E1-37E6-4C51-B124-D36B73E221D0}
+	EndGlobalSection
+EndGlobal

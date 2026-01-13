@@ -1,0 +1,7 @@
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\UDEMY\C# Completo - OPP + Projetos\Problema_NotaDosAlunos_ComClasses\Problema_NotaDosAlunos_ComClasses\bin\Debug\Problema_NotaDosAlunos_ComClasses.exe.config
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\UDEMY\C# Completo - OPP + Projetos\Problema_NotaDosAlunos_ComClasses\Problema_NotaDosAlunos_ComClasses\bin\Debug\Problema_NotaDosAlunos_ComClasses.exe
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\UDEMY\C# Completo - OPP + Projetos\Problema_NotaDosAlunos_ComClasses\Problema_NotaDosAlunos_ComClasses\bin\Debug\Problema_NotaDosAlunos_ComClasses.pdb
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\UDEMY\C# Completo - OPP + Projetos\Problema_NotaDosAlunos_ComClasses\Problema_NotaDosAlunos_ComClasses\obj\Debug\Problema_NotaDosAlunos_ComClasses.csproj.AssemblyReference.cache
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\UDEMY\C# Completo - OPP + Projetos\Problema_NotaDosAlunos_ComClasses\Problema_NotaDosAlunos_ComClasses\obj\Debug\Problema_NotaDosAlunos_ComClasses.csproj.CoreCompileInputs.cache
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\UDEMY\C# Completo - OPP + Projetos\Problema_NotaDosAlunos_ComClasses\Problema_NotaDosAlunos_ComClasses\obj\Debug\Problema_NotaDosAlunos_ComClasses.exe
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\UDEMY\C# Completo - OPP + Projetos\Problema_NotaDosAlunos_ComClasses\Problema_NotaDosAlunos_ComClasses\obj\Debug\Problema_NotaDosAlunos_ComClasses.pdb
