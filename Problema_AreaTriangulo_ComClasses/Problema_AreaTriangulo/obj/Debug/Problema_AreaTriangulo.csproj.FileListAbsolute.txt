@@ -1,0 +1,14 @@
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\UDEMY\C# Completo - Programação Orientada a Objetos + Projetos\Problema_AreaTriangulo_ComClasses\Problema_AreaTriangulo\bin\Debug\Problema_AreaTriangulo.exe.config
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\UDEMY\C# Completo - Programação Orientada a Objetos + Projetos\Problema_AreaTriangulo_ComClasses\Problema_AreaTriangulo\bin\Debug\Problema_AreaTriangulo.exe
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\UDEMY\C# Completo - Programação Orientada a Objetos + Projetos\Problema_AreaTriangulo_ComClasses\Problema_AreaTriangulo\bin\Debug\Problema_AreaTriangulo.pdb
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\UDEMY\C# Completo - Programação Orientada a Objetos + Projetos\Problema_AreaTriangulo_ComClasses\Problema_AreaTriangulo\obj\Debug\Problema_AreaTriangulo.csproj.AssemblyReference.cache
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\UDEMY\C# Completo - Programação Orientada a Objetos + Projetos\Problema_AreaTriangulo_ComClasses\Problema_AreaTriangulo\obj\Debug\Problema_AreaTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\UDEMY\C# Completo - Programação Orientada a Objetos + Projetos\Problema_AreaTriangulo_ComClasses\Problema_AreaTriangulo\obj\Debug\Problema_AreaTriangulo.exe
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\UDEMY\C# Completo - Programação Orientada a Objetos + Projetos\Problema_AreaTriangulo_ComClasses\Problema_AreaTriangulo\obj\Debug\Problema_AreaTriangulo.pdb
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\UDEMY\C# Completo - OPP + Projetos\Problema_AreaTriangulo_ComClasses\Problema_AreaTriangulo\bin\Debug\Problema_AreaTriangulo.exe.config
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\UDEMY\C# Completo - OPP + Projetos\Problema_AreaTriangulo_ComClasses\Problema_AreaTriangulo\bin\Debug\Problema_AreaTriangulo.exe
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\UDEMY\C# Completo - OPP + Projetos\Problema_AreaTriangulo_ComClasses\Problema_AreaTriangulo\bin\Debug\Problema_AreaTriangulo.pdb
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\UDEMY\C# Completo - OPP + Projetos\Problema_AreaTriangulo_ComClasses\Problema_AreaTriangulo\obj\Debug\Problema_AreaTriangulo.csproj.AssemblyReference.cache
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\UDEMY\C# Completo - OPP + Projetos\Problema_AreaTriangulo_ComClasses\Problema_AreaTriangulo\obj\Debug\Problema_AreaTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\UDEMY\C# Completo - OPP + Projetos\Problema_AreaTriangulo_ComClasses\Problema_AreaTriangulo\obj\Debug\Problema_AreaTriangulo.exe
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\UDEMY\C# Completo - OPP + Projetos\Problema_AreaTriangulo_ComClasses\Problema_AreaTriangulo\obj\Debug\Problema_AreaTriangulo.pdb

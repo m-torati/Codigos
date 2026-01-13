@@ -1,0 +1,7 @@
+C:\Users\Admilson\Desktop\Cursos Udemy\C# Completo - POO + Projetos\Problema_ProdutosEmEstoque_GetSet\Problema_ProdutosEmEstoque_GetSet\bin\Debug\Problema_ProdutosEmEstoque_GetSet.exe.config
+C:\Users\Admilson\Desktop\Cursos Udemy\C# Completo - POO + Projetos\Problema_ProdutosEmEstoque_GetSet\Problema_ProdutosEmEstoque_GetSet\bin\Debug\Problema_ProdutosEmEstoque_GetSet.exe
+C:\Users\Admilson\Desktop\Cursos Udemy\C# Completo - POO + Projetos\Problema_ProdutosEmEstoque_GetSet\Problema_ProdutosEmEstoque_GetSet\bin\Debug\Problema_ProdutosEmEstoque_GetSet.pdb
+C:\Users\Admilson\Desktop\Cursos Udemy\C# Completo - POO + Projetos\Problema_ProdutosEmEstoque_GetSet\Problema_ProdutosEmEstoque_GetSet\obj\Debug\Problema_ProdutosEmEstoque_GetSet.csproj.AssemblyReference.cache
+C:\Users\Admilson\Desktop\Cursos Udemy\C# Completo - POO + Projetos\Problema_ProdutosEmEstoque_GetSet\Problema_ProdutosEmEstoque_GetSet\obj\Debug\Problema_ProdutosEmEstoque_GetSet.csproj.CoreCompileInputs.cache
+C:\Users\Admilson\Desktop\Cursos Udemy\C# Completo - POO + Projetos\Problema_ProdutosEmEstoque_GetSet\Problema_ProdutosEmEstoque_GetSet\obj\Debug\Problema_ProdutosEmEstoque_GetSet.exe
+C:\Users\Admilson\Desktop\Cursos Udemy\C# Completo - POO + Projetos\Problema_ProdutosEmEstoque_GetSet\Problema_ProdutosEmEstoque_GetSet\obj\Debug\Problema_ProdutosEmEstoque_GetSet.pdb

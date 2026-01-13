@@ -1,0 +1,7 @@
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\UDEMY\C# Completo - OPP + Projetos\Problema_MediaSalario-ComClasses\Problema_MediaSalario-ComClasses\bin\Debug\Problema_MediaSalario-ComClasses.exe.config
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\UDEMY\C# Completo - OPP + Projetos\Problema_MediaSalario-ComClasses\Problema_MediaSalario-ComClasses\bin\Debug\Problema_MediaSalario-ComClasses.exe
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\UDEMY\C# Completo - OPP + Projetos\Problema_MediaSalario-ComClasses\Problema_MediaSalario-ComClasses\bin\Debug\Problema_MediaSalario-ComClasses.pdb
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\UDEMY\C# Completo - OPP + Projetos\Problema_MediaSalario-ComClasses\Problema_MediaSalario-ComClasses\obj\Debug\Problema_MediaSalario-ComClasses.csproj.AssemblyReference.cache
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\UDEMY\C# Completo - OPP + Projetos\Problema_MediaSalario-ComClasses\Problema_MediaSalario-ComClasses\obj\Debug\Problema_MediaSalario-ComClasses.csproj.CoreCompileInputs.cache
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\UDEMY\C# Completo - OPP + Projetos\Problema_MediaSalario-ComClasses\Problema_MediaSalario-ComClasses\obj\Debug\Problema_MediaSalario-ComClasses.exe
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\UDEMY\C# Completo - OPP + Projetos\Problema_MediaSalario-ComClasses\Problema_MediaSalario-ComClasses\obj\Debug\Problema_MediaSalario-ComClasses.pdb
