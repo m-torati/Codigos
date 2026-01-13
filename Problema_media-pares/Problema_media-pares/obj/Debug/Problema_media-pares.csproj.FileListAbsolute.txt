@@ -1,0 +1,7 @@
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_media-pares\Problema_media-pares\bin\Debug\Problema_media-pares.exe.config
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_media-pares\Problema_media-pares\bin\Debug\Problema_media-pares.exe
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_media-pares\Problema_media-pares\bin\Debug\Problema_media-pares.pdb
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_media-pares\Problema_media-pares\obj\Debug\Problema_media-pares.csproj.AssemblyReference.cache
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_media-pares\Problema_media-pares\obj\Debug\Problema_media-pares.csproj.CoreCompileInputs.cache
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_media-pares\Problema_media-pares\obj\Debug\Problema_media-pares.exe
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_media-pares\Problema_media-pares\obj\Debug\Problema_media-pares.pdb

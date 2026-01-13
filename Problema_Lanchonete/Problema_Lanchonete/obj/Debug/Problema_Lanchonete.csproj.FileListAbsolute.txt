@@ -1,0 +1,7 @@
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_Lanchonete\Problema_Lanchonete\bin\Debug\Problema_Lanchonete.exe.config
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_Lanchonete\Problema_Lanchonete\bin\Debug\Problema_Lanchonete.exe
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_Lanchonete\Problema_Lanchonete\bin\Debug\Problema_Lanchonete.pdb
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_Lanchonete\Problema_Lanchonete\obj\Debug\Problema_Lanchonete.csproj.AssemblyReference.cache
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_Lanchonete\Problema_Lanchonete\obj\Debug\Problema_Lanchonete.csproj.CoreCompileInputs.cache
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_Lanchonete\Problema_Lanchonete\obj\Debug\Problema_Lanchonete.exe
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_Lanchonete\Problema_Lanchonete\obj\Debug\Problema_Lanchonete.pdb

@@ -1,0 +1,7 @@
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_mais-velho\Problema_mais-velho\bin\Debug\Problema_mais-velho.exe.config
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_mais-velho\Problema_mais-velho\bin\Debug\Problema_mais-velho.exe
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_mais-velho\Problema_mais-velho\bin\Debug\Problema_mais-velho.pdb
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_mais-velho\Problema_mais-velho\obj\Debug\Problema_mais-velho.csproj.AssemblyReference.cache
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_mais-velho\Problema_mais-velho\obj\Debug\Problema_mais-velho.csproj.CoreCompileInputs.cache
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_mais-velho\Problema_mais-velho\obj\Debug\Problema_mais-velho.exe
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_mais-velho\Problema_mais-velho\obj\Debug\Problema_mais-velho.pdb

@@ -1,0 +1,7 @@
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_maior-posicao\Problema_maior-posicao\bin\Debug\Problema_maior-posicao.exe.config
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_maior-posicao\Problema_maior-posicao\bin\Debug\Problema_maior-posicao.exe
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_maior-posicao\Problema_maior-posicao\bin\Debug\Problema_maior-posicao.pdb
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_maior-posicao\Problema_maior-posicao\obj\Debug\Problema_maior-posicao.csproj.AssemblyReference.cache
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_maior-posicao\Problema_maior-posicao\obj\Debug\Problema_maior-posicao.csproj.CoreCompileInputs.cache
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_maior-posicao\Problema_maior-posicao\obj\Debug\Problema_maior-posicao.exe
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_maior-posicao\Problema_maior-posicao\obj\Debug\Problema_maior-posicao.pdb

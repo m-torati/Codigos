@@ -1,0 +1,7 @@
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_MaiorEmenor\Problema_MaiorEmenor\bin\Debug\Problema_MaiorEmenor.exe.config
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_MaiorEmenor\Problema_MaiorEmenor\bin\Debug\Problema_MaiorEmenor.exe
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_MaiorEmenor\Problema_MaiorEmenor\bin\Debug\Problema_MaiorEmenor.pdb
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_MaiorEmenor\Problema_MaiorEmenor\obj\Debug\Problema_MaiorEmenor.csproj.AssemblyReference.cache
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_MaiorEmenor\Problema_MaiorEmenor\obj\Debug\Problema_MaiorEmenor.csproj.CoreCompileInputs.cache
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_MaiorEmenor\Problema_MaiorEmenor\obj\Debug\Problema_MaiorEmenor.exe
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_MaiorEmenor\Problema_MaiorEmenor\obj\Debug\Problema_MaiorEmenor.pdb
