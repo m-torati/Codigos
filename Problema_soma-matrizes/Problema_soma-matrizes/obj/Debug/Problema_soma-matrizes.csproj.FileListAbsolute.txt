@@ -1,0 +1,7 @@
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_soma-matrizes\Problema_soma-matrizes\bin\Debug\Problema_soma-matrizes.exe.config
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_soma-matrizes\Problema_soma-matrizes\bin\Debug\Problema_soma-matrizes.exe
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_soma-matrizes\Problema_soma-matrizes\bin\Debug\Problema_soma-matrizes.pdb
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_soma-matrizes\Problema_soma-matrizes\obj\Debug\Problema_soma-matrizes.csproj.AssemblyReference.cache
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_soma-matrizes\Problema_soma-matrizes\obj\Debug\Problema_soma-matrizes.csproj.CoreCompileInputs.cache
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_soma-matrizes\Problema_soma-matrizes\obj\Debug\Problema_soma-matrizes.exe
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_soma-matrizes\Problema_soma-matrizes\obj\Debug\Problema_soma-matrizes.pdb

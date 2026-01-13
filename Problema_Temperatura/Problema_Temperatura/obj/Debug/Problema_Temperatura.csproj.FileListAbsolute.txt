@@ -1,0 +1,7 @@
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_Temperatura\Problema_Temperatura\bin\Debug\Problema_Temperatura.exe.config
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_Temperatura\Problema_Temperatura\bin\Debug\Problema_Temperatura.exe
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_Temperatura\Problema_Temperatura\bin\Debug\Problema_Temperatura.pdb
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_Temperatura\Problema_Temperatura\obj\Debug\Problema_Temperatura.csproj.AssemblyReference.cache
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_Temperatura\Problema_Temperatura\obj\Debug\Problema_Temperatura.csproj.CoreCompileInputs.cache
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_Temperatura\Problema_Temperatura\obj\Debug\Problema_Temperatura.exe
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_Temperatura\Problema_Temperatura\obj\Debug\Problema_Temperatura.pdb

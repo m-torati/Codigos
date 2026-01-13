@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problema_soma-matrizes", "Problema_soma-matrizes\Problema_soma-matrizes.csproj", "{35975062-C802-4235-8649-4DDA35B01C37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35975062-C802-4235-8649-4DDA35B01C37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35975062-C802-4235-8649-4DDA35B01C37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35975062-C802-4235-8649-4DDA35B01C37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35975062-C802-4235-8649-4DDA35B01C37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18553A61-5432-4782-AFEF-3537C335CCB8}
+	EndGlobalSection
+EndGlobal

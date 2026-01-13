@@ -1,0 +1,7 @@
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_soma-vetores\Problema_soma-vetores\bin\Debug\Problema_soma-vetores.exe.config
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_soma-vetores\Problema_soma-vetores\bin\Debug\Problema_soma-vetores.exe
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_soma-vetores\Problema_soma-vetores\bin\Debug\Problema_soma-vetores.pdb
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_soma-vetores\Problema_soma-vetores\obj\Debug\Problema_soma-vetores.csproj.AssemblyReference.cache
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_soma-vetores\Problema_soma-vetores\obj\Debug\Problema_soma-vetores.csproj.CoreCompileInputs.cache
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_soma-vetores\Problema_soma-vetores\obj\Debug\Problema_soma-vetores.exe
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_soma-vetores\Problema_soma-vetores\obj\Debug\Problema_soma-vetores.pdb

@@ -1,0 +1,7 @@
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_tabuada\Problema_tabuada\bin\Debug\Problema_tabuada.exe.config
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_tabuada\Problema_tabuada\bin\Debug\Problema_tabuada.exe
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_tabuada\Problema_tabuada\bin\Debug\Problema_tabuada.pdb
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_tabuada\Problema_tabuada\obj\Debug\Problema_tabuada.csproj.AssemblyReference.cache
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_tabuada\Problema_tabuada\obj\Debug\Problema_tabuada.csproj.CoreCompileInputs.cache
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_tabuada\Problema_tabuada\obj\Debug\Problema_tabuada.exe
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_tabuada\Problema_tabuada\obj\Debug\Problema_tabuada.pdb

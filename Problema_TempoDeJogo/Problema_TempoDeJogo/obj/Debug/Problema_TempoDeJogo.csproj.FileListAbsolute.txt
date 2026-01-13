@@ -1,0 +1,7 @@
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_TempoDeJogo\Problema_TempoDeJogo\bin\Debug\Problema_TempoDeJogo.exe.config
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_TempoDeJogo\Problema_TempoDeJogo\bin\Debug\Problema_TempoDeJogo.exe
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_TempoDeJogo\Problema_TempoDeJogo\bin\Debug\Problema_TempoDeJogo.pdb
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_TempoDeJogo\Problema_TempoDeJogo\obj\Debug\Problema_TempoDeJogo.csproj.AssemblyReference.cache
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_TempoDeJogo\Problema_TempoDeJogo\obj\Debug\Problema_TempoDeJogo.csproj.CoreCompileInputs.cache
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_TempoDeJogo\Problema_TempoDeJogo\obj\Debug\Problema_TempoDeJogo.exe
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_TempoDeJogo\Problema_TempoDeJogo\obj\Debug\Problema_TempoDeJogo.pdb
