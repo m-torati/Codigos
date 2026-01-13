@@ -1,0 +1,7 @@
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_Glicose\Problema_Glicose\bin\Debug\Problema_Glicose.exe.config
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_Glicose\Problema_Glicose\bin\Debug\Problema_Glicose.exe
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_Glicose\Problema_Glicose\bin\Debug\Problema_Glicose.pdb
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_Glicose\Problema_Glicose\obj\Debug\Problema_Glicose.csproj.AssemblyReference.cache
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_Glicose\Problema_Glicose\obj\Debug\Problema_Glicose.csproj.CoreCompileInputs.cache
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_Glicose\Problema_Glicose\obj\Debug\Problema_Glicose.exe
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_Glicose\Problema_Glicose\obj\Debug\Problema_Glicose.pdb

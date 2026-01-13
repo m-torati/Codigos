@@ -1,0 +1,7 @@
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_Comerciante\Problema_Comerciante\bin\Debug\Problema_Comerciante.exe.config
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_Comerciante\Problema_Comerciante\bin\Debug\Problema_Comerciante.exe
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_Comerciante\Problema_Comerciante\bin\Debug\Problema_Comerciante.pdb
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_Comerciante\Problema_Comerciante\obj\Debug\Problema_Comerciante.csproj.AssemblyReference.cache
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_Comerciante\Problema_Comerciante\obj\Debug\Problema_Comerciante.csproj.CoreCompileInputs.cache
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_Comerciante\Problema_Comerciante\obj\Debug\Problema_Comerciante.exe
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_Comerciante\Problema_Comerciante\obj\Debug\Problema_Comerciante.pdb

@@ -1,0 +1,7 @@
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_dados-pessoas\Problema_dados-pessoas\bin\Debug\Problema_dados-pessoas.exe.config
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_dados-pessoas\Problema_dados-pessoas\bin\Debug\Problema_dados-pessoas.exe
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_dados-pessoas\Problema_dados-pessoas\bin\Debug\Problema_dados-pessoas.pdb
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_dados-pessoas\Problema_dados-pessoas\obj\Debug\Problema_dados-pessoas.csproj.AssemblyReference.cache
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_dados-pessoas\Problema_dados-pessoas\obj\Debug\Problema_dados-pessoas.csproj.CoreCompileInputs.cache
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_dados-pessoas\Problema_dados-pessoas\obj\Debug\Problema_dados-pessoas.exe
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_dados-pessoas\Problema_dados-pessoas\obj\Debug\Problema_dados-pessoas.pdb

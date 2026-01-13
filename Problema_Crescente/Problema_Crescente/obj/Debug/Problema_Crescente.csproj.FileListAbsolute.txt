@@ -1,0 +1,7 @@
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_Crescente\Problema_Crescente\bin\Debug\Problema_Crescente.exe.config
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_Crescente\Problema_Crescente\bin\Debug\Problema_Crescente.exe
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_Crescente\Problema_Crescente\bin\Debug\Problema_Crescente.pdb
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_Crescente\Problema_Crescente\obj\Debug\Problema_Crescente.csproj.AssemblyReference.cache
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_Crescente\Problema_Crescente\obj\Debug\Problema_Crescente.csproj.CoreCompileInputs.cache
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_Crescente\Problema_Crescente\obj\Debug\Problema_Crescente.exe
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_Crescente\Problema_Crescente\obj\Debug\Problema_Crescente.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problema_Glicose", "Problema_Glicose\Problema_Glicose.csproj", "{10C59458-4DEE-4AA3-B9E2-4758E82C4C4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10C59458-4DEE-4AA3-B9E2-4758E82C4C4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10C59458-4DEE-4AA3-B9E2-4758E82C4C4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10C59458-4DEE-4AA3-B9E2-4758E82C4C4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10C59458-4DEE-4AA3-B9E2-4758E82C4C4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F96B523D-1DDC-4C4B-936A-FBF5A4BDEF5C}
+	EndGlobalSection
+EndGlobal

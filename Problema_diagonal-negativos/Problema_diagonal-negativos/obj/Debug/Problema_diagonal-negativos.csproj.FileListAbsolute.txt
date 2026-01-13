@@ -1,0 +1,7 @@
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_diagonal-negativos\Problema_diagonal-negativos\bin\Debug\Problema_diagonal-negativos.exe.config
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_diagonal-negativos\Problema_diagonal-negativos\bin\Debug\Problema_diagonal-negativos.exe
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_diagonal-negativos\Problema_diagonal-negativos\bin\Debug\Problema_diagonal-negativos.pdb
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_diagonal-negativos\Problema_diagonal-negativos\obj\Debug\Problema_diagonal-negativos.csproj.AssemblyReference.cache
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_diagonal-negativos\Problema_diagonal-negativos\obj\Debug\Problema_diagonal-negativos.csproj.CoreCompileInputs.cache
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_diagonal-negativos\Problema_diagonal-negativos\obj\Debug\Problema_diagonal-negativos.exe
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_diagonal-negativos\Problema_diagonal-negativos\obj\Debug\Problema_diagonal-negativos.pdb

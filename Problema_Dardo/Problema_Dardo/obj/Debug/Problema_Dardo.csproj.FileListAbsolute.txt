@@ -1,0 +1,7 @@
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_Dardo\Problema_Dardo\bin\Debug\Problema_Dardo.exe.config
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_Dardo\Problema_Dardo\bin\Debug\Problema_Dardo.exe
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_Dardo\Problema_Dardo\bin\Debug\Problema_Dardo.pdb
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_Dardo\Problema_Dardo\obj\Debug\Problema_Dardo.csproj.AssemblyReference.cache
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_Dardo\Problema_Dardo\obj\Debug\Problema_Dardo.csproj.CoreCompileInputs.cache
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_Dardo\Problema_Dardo\obj\Debug\Problema_Dardo.exe
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_Dardo\Problema_Dardo\obj\Debug\Problema_Dardo.pdb
