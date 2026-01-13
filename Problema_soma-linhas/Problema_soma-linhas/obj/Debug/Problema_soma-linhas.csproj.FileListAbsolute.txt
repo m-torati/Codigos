@@ -1,0 +1,7 @@
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_soma-linhas\Problema_soma-linhas\bin\Debug\Problema_soma-linhas.exe.config
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_soma-linhas\Problema_soma-linhas\bin\Debug\Problema_soma-linhas.exe
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_soma-linhas\Problema_soma-linhas\bin\Debug\Problema_soma-linhas.pdb
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_soma-linhas\Problema_soma-linhas\obj\Debug\Problema_soma-linhas.csproj.AssemblyReference.cache
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_soma-linhas\Problema_soma-linhas\obj\Debug\Problema_soma-linhas.csproj.CoreCompileInputs.cache
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_soma-linhas\Problema_soma-linhas\obj\Debug\Problema_soma-linhas.exe
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_soma-linhas\Problema_soma-linhas\obj\Debug\Problema_soma-linhas.pdb

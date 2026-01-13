@@ -1,0 +1,7 @@
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_numeros-pares\Problema_numeros-pares\bin\Debug\Problema_numeros-pares.exe.config
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_numeros-pares\Problema_numeros-pares\bin\Debug\Problema_numeros-pares.exe
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_numeros-pares\Problema_numeros-pares\bin\Debug\Problema_numeros-pares.pdb
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_numeros-pares\Problema_numeros-pares\obj\Debug\Problema_numeros-pares.csproj.AssemblyReference.cache
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_numeros-pares\Problema_numeros-pares\obj\Debug\Problema_numeros-pares.csproj.CoreCompileInputs.cache
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_numeros-pares\Problema_numeros-pares\obj\Debug\Problema_numeros-pares.exe
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_numeros-pares\Problema_numeros-pares\obj\Debug\Problema_numeros-pares.pdb

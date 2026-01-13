@@ -1,0 +1,7 @@
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_pares-consecutivos\Problema_pares-consecutivos\bin\Debug\Problema_pares-consecutivos.exe.config
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_pares-consecutivos\Problema_pares-consecutivos\bin\Debug\Problema_pares-consecutivos.exe
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_pares-consecutivos\Problema_pares-consecutivos\bin\Debug\Problema_pares-consecutivos.pdb
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_pares-consecutivos\Problema_pares-consecutivos\obj\Debug\Problema_pares-consecutivos.csproj.AssemblyReference.cache
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_pares-consecutivos\Problema_pares-consecutivos\obj\Debug\Problema_pares-consecutivos.csproj.CoreCompileInputs.cache
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_pares-consecutivos\Problema_pares-consecutivos\obj\Debug\Problema_pares-consecutivos.exe
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_pares-consecutivos\Problema_pares-consecutivos\obj\Debug\Problema_pares-consecutivos.pdb

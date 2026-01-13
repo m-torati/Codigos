@@ -1,0 +1,7 @@
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_negativos-matriz\Problema_negativos-matriz\bin\Debug\Problema_negativos-matriz.exe.config
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_negativos-matriz\Problema_negativos-matriz\bin\Debug\Problema_negativos-matriz.exe
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_negativos-matriz\Problema_negativos-matriz\bin\Debug\Problema_negativos-matriz.pdb
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_negativos-matriz\Problema_negativos-matriz\obj\Debug\Problema_negativos-matriz.csproj.AssemblyReference.cache
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_negativos-matriz\Problema_negativos-matriz\obj\Debug\Problema_negativos-matriz.csproj.CoreCompileInputs.cache
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_negativos-matriz\Problema_negativos-matriz\obj\Debug\Problema_negativos-matriz.exe
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_negativos-matriz\Problema_negativos-matriz\obj\Debug\Problema_negativos-matriz.pdb

@@ -1,0 +1,7 @@
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_senha-fixa\Problema_senha-fixa\bin\Debug\Problema_senha-fixa.exe.config
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_senha-fixa\Problema_senha-fixa\bin\Debug\Problema_senha-fixa.exe
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_senha-fixa\Problema_senha-fixa\bin\Debug\Problema_senha-fixa.pdb
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_senha-fixa\Problema_senha-fixa\obj\Debug\Problema_senha-fixa.csproj.AssemblyReference.cache
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_senha-fixa\Problema_senha-fixa\obj\Debug\Problema_senha-fixa.csproj.CoreCompileInputs.cache
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_senha-fixa\Problema_senha-fixa\obj\Debug\Problema_senha-fixa.exe
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_senha-fixa\Problema_senha-fixa\obj\Debug\Problema_senha-fixa.pdb

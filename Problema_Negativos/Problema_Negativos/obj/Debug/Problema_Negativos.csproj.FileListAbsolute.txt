@@ -1,0 +1,7 @@
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_Negativos\Problema_Negativos\bin\Debug\Problema_Negativos.exe.config
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_Negativos\Problema_Negativos\bin\Debug\Problema_Negativos.exe
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_Negativos\Problema_Negativos\bin\Debug\Problema_Negativos.pdb
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_Negativos\Problema_Negativos\obj\Debug\Problema_Negativos.csproj.AssemblyReference.cache
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_Negativos\Problema_Negativos\obj\Debug\Problema_Negativos.csproj.CoreCompileInputs.cache
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_Negativos\Problema_Negativos\obj\Debug\Problema_Negativos.exe
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_Negativos\Problema_Negativos\obj\Debug\Problema_Negativos.pdb
