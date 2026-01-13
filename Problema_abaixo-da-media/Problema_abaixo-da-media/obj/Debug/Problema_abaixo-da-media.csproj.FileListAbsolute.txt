@@ -1,0 +1,7 @@
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_abaixo-da-media\Problema_abaixo-da-media\bin\Debug\Problema_abaixo-da-media.exe.config
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_abaixo-da-media\Problema_abaixo-da-media\bin\Debug\Problema_abaixo-da-media.exe
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_abaixo-da-media\Problema_abaixo-da-media\bin\Debug\Problema_abaixo-da-media.pdb
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_abaixo-da-media\Problema_abaixo-da-media\obj\Debug\Problema_abaixo-da-media.csproj.AssemblyReference.cache
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_abaixo-da-media\Problema_abaixo-da-media\obj\Debug\Problema_abaixo-da-media.csproj.CoreCompileInputs.cache
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_abaixo-da-media\Problema_abaixo-da-media\obj\Debug\Problema_abaixo-da-media.exe
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_abaixo-da-media\Problema_abaixo-da-media\obj\Debug\Problema_abaixo-da-media.pdb

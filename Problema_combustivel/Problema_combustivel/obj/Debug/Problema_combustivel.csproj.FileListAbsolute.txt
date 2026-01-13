@@ -1,0 +1,7 @@
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_combustivel\Problema_combustivel\bin\Debug\Problema_combustivel.exe.config
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_combustivel\Problema_combustivel\bin\Debug\Problema_combustivel.exe
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_combustivel\Problema_combustivel\bin\Debug\Problema_combustivel.pdb
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_combustivel\Problema_combustivel\obj\Debug\Problema_combustivel.csproj.AssemblyReference.cache
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_combustivel\Problema_combustivel\obj\Debug\Problema_combustivel.csproj.CoreCompileInputs.cache
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_combustivel\Problema_combustivel\obj\Debug\Problema_combustivel.exe
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_combustivel\Problema_combustivel\obj\Debug\Problema_combustivel.pdb

@@ -1,0 +1,7 @@
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_cada-linha\Problema_cada-linha\bin\Debug\Problema_cada-linha.exe.config
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_cada-linha\Problema_cada-linha\bin\Debug\Problema_cada-linha.exe
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_cada-linha\Problema_cada-linha\bin\Debug\Problema_cada-linha.pdb
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_cada-linha\Problema_cada-linha\obj\Debug\Problema_cada-linha.csproj.AssemblyReference.cache
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_cada-linha\Problema_cada-linha\obj\Debug\Problema_cada-linha.csproj.CoreCompileInputs.cache
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_cada-linha\Problema_cada-linha\obj\Debug\Problema_cada-linha.exe
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_cada-linha\Problema_cada-linha\obj\Debug\Problema_cada-linha.pdb

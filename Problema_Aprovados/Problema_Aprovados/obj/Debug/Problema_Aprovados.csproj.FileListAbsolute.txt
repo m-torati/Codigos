@@ -1,0 +1,7 @@
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_Aprovados\Problema_Aprovados\bin\Debug\Problema_Aprovados.exe.config
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_Aprovados\Problema_Aprovados\bin\Debug\Problema_Aprovados.exe
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_Aprovados\Problema_Aprovados\bin\Debug\Problema_Aprovados.pdb
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_Aprovados\Problema_Aprovados\obj\Debug\Problema_Aprovados.csproj.AssemblyReference.cache
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_Aprovados\Problema_Aprovados\obj\Debug\Problema_Aprovados.csproj.CoreCompileInputs.cache
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_Aprovados\Problema_Aprovados\obj\Debug\Problema_Aprovados.exe
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_Aprovados\Problema_Aprovados\obj\Debug\Problema_Aprovados.pdb

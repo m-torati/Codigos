@@ -1,0 +1,7 @@
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_aumento\Problema_aumento\bin\Debug\Problema_aumento.exe.config
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_aumento\Problema_aumento\bin\Debug\Problema_aumento.exe
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_aumento\Problema_aumento\bin\Debug\Problema_aumento.pdb
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_aumento\Problema_aumento\obj\Debug\Problema_aumento.csproj.AssemblyReference.cache
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_aumento\Problema_aumento\obj\Debug\Problema_aumento.csproj.CoreCompileInputs.cache
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_aumento\Problema_aumento\obj\Debug\Problema_aumento.exe
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_aumento\Problema_aumento\obj\Debug\Problema_aumento.pdb

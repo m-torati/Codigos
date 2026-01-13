@@ -1,0 +1,7 @@
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_Alturas\Problema_Alturas\bin\Debug\Problema_Alturas.exe.config
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_Alturas\Problema_Alturas\bin\Debug\Problema_Alturas.exe
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_Alturas\Problema_Alturas\bin\Debug\Problema_Alturas.pdb
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_Alturas\Problema_Alturas\obj\Debug\Problema_Alturas.csproj.AssemblyReference.cache
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_Alturas\Problema_Alturas\obj\Debug\Problema_Alturas.csproj.CoreCompileInputs.cache
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_Alturas\Problema_Alturas\obj\Debug\Problema_Alturas.exe
+C:\Users\Admilson\Desktop\FESA\EC.2\Algoritmos II\Problema_Alturas\Problema_Alturas\obj\Debug\Problema_Alturas.pdb
