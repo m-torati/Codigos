@@ -1,0 +1,7 @@
+C:\Users\Murilo PC\Desktop\Cursos Udemy\C# Completo - POO + Projetos\Problema_PrecoMedioComClassesE_vetores\Problema_PrecoMedioComClassesE_vetores\bin\Debug\Problema_PrecoMedioComClassesE_vetores.exe.config
+C:\Users\Murilo PC\Desktop\Cursos Udemy\C# Completo - POO + Projetos\Problema_PrecoMedioComClassesE_vetores\Problema_PrecoMedioComClassesE_vetores\bin\Debug\Problema_PrecoMedioComClassesE_vetores.exe
+C:\Users\Murilo PC\Desktop\Cursos Udemy\C# Completo - POO + Projetos\Problema_PrecoMedioComClassesE_vetores\Problema_PrecoMedioComClassesE_vetores\bin\Debug\Problema_PrecoMedioComClassesE_vetores.pdb
+C:\Users\Murilo PC\Desktop\Cursos Udemy\C# Completo - POO + Projetos\Problema_PrecoMedioComClassesE_vetores\Problema_PrecoMedioComClassesE_vetores\obj\Debug\Problema_PrecoMedioComClassesE_vetores.csproj.AssemblyReference.cache
+C:\Users\Murilo PC\Desktop\Cursos Udemy\C# Completo - POO + Projetos\Problema_PrecoMedioComClassesE_vetores\Problema_PrecoMedioComClassesE_vetores\obj\Debug\Problema_PrecoMedioComClassesE_vetores.csproj.CoreCompileInputs.cache
+C:\Users\Murilo PC\Desktop\Cursos Udemy\C# Completo - POO + Projetos\Problema_PrecoMedioComClassesE_vetores\Problema_PrecoMedioComClassesE_vetores\obj\Debug\Problema_PrecoMedioComClassesE_vetores.exe
+C:\Users\Murilo PC\Desktop\Cursos Udemy\C# Completo - POO + Projetos\Problema_PrecoMedioComClassesE_vetores\Problema_PrecoMedioComClassesE_vetores\obj\Debug\Problema_PrecoMedioComClassesE_vetores.pdb
